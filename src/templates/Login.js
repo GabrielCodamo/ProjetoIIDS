@@ -1,4 +1,4 @@
-import HeaderLogin from '../components/HeaderLogin'
+import HeaderLogin from '../components/HeaderHome'
 import Footer from '../components/Footer'
 
 const Default = ({children}) => {

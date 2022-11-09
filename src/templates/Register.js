@@ -1,4 +1,4 @@
-import HeaderRegister from '../components/HeaderRegister'
+import HeaderRegister from '../components/HeaderHome'
 import Footer from '../components/Footer'
 
 const Default = ({children}) => {
