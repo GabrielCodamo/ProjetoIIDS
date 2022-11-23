@@ -12,45 +12,7 @@ CardContent
 } from '@mui/material'
 import theme from '../src/theme'
 import Carousel from 'react-material-ui-carousel'
-/*
-     <Carousel
-                autoPlay={false}
-                >
-                <Card sx={{
-                  height: '100%'
-                }}>
-                 <CardMedia
-                 component='img'
-                 sx={{ 
-                  }}
-                  image="Imagem1.jpg"
-                  alt="Imagens de Apresentacao"
-                  />
-                </Card>
-                <Card sx={{
-                  height: '100%'
-                }}>
-                 <CardMedia
-                 component='img'
-                 sx={{  
-                  }}
-                  image="Image2.jpg"
-                  alt="Imagens de Apresentacao"
-                  />
-                </Card>
-                <Card sx={{
-                  height: '100%'
-                }}>
-                 <CardMedia
-                 component='img'
-                 sx={{
-                  }}
-                  image="Imagem3.jpg"
-                  alt="Imagens de Apresentacao"
-                  />
-                </Card>
-            </Carousel>
-*/
+
 export default function Home(){
   return(
     <TemplateDefault>
