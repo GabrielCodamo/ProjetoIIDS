@@ -16,7 +16,6 @@ import Carousel from 'react-material-ui-carousel'
 export default function Home(){
   return(
     <TemplateDefault>
-      
       <Container maxWidth="lg"
       sx={{
         marginTop: -5,

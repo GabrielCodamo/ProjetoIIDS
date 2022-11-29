@@ -1,4 +1,4 @@
-/*
+
 import dbConnect from "../../src/utils/dbConnect"
 import UsersModel from "../../src/models/users"
 
@@ -37,4 +37,3 @@ const users = async (req, res) => {
 
 export default users
 
-*/
